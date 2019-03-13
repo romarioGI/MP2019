@@ -1,0 +1,56 @@
+h:\documents\visual studio 2013\Projects\2019MP\2019MP\bin\Debug\2019MP.exe.config
+h:\documents\visual studio 2013\Projects\2019MP\2019MP\bin\Debug\2019MP.exe
+h:\documents\visual studio 2013\Projects\2019MP\2019MP\bin\Debug\2019MP.pdb
+h:\documents\visual studio 2013\Projects\2019MP\2019MP\bin\Debug\Lab1.dll
+h:\documents\visual studio 2013\Projects\2019MP\2019MP\bin\Debug\Lab1.pdb
+h:\documents\visual studio 2013\Projects\2019MP\2019MP\obj\Debug\2019MP.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2013\Projects\2019MP\2019MP\obj\Debug\2019MP.exe
+h:\documents\visual studio 2013\Projects\2019MP\2019MP\obj\Debug\2019MP.pdb
+F:\2019MP\2019MP\bin\Debug\2019MP.exe.config
+F:\2019MP\2019MP\bin\Debug\2019MP.exe
+F:\2019MP\2019MP\bin\Debug\2019MP.pdb
+F:\2019MP\2019MP\bin\Debug\Lab1.dll
+F:\2019MP\2019MP\bin\Debug\Lab1.pdb
+F:\2019MP\2019MP\obj\Debug\2019MP.csprojAssemblyReference.cache
+F:\2019MP\2019MP\obj\Debug\2019MP.csproj.CoreCompileInputs.cache
+F:\2019MP\2019MP\obj\Debug\2019MP.csproj.CopyComplete
+F:\2019MP\2019MP\obj\Debug\2019MP.exe
+F:\2019MP\2019MP\obj\Debug\2019MP.pdb
+D:\2019MP\2019MP\bin\Debug\2019MP.exe.config
+D:\2019MP\2019MP\obj\Debug\2019MP.exe
+D:\2019MP\2019MP\obj\Debug\2019MP.pdb
+D:\2019MP\2019MP\bin\Debug\2019MP.exe
+D:\2019MP\2019MP\bin\Debug\2019MP.pdb
+D:\2019MP\2019MP\bin\Debug\Lab1.dll
+D:\2019MP\2019MP\bin\Debug\Lab1.pdb
+D:\2019MP\2019MP\obj\Debug\2019MP.csprojResolveAssemblyReference.cache
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\2019MP.exe.config
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\2019MP.exe
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\2019MP.pdb
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\Lab1.dll
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\Lab1.pdb
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\obj\Debug\2019MP.csprojAssemblyReference.cache
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\obj\Debug\2019MP.csproj.CoreCompileInputs.cache
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\obj\Debug\2019MP.csproj.CopyComplete
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\obj\Debug\2019MP.exe
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\obj\Debug\2019MP.pdb
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\Lab2.AVL-tree.dll
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\Lab2.AVL-tree.pdb
+F:\2019MP\2019MP\bin\Debug\Lab2.AVL-tree.dll
+F:\2019MP\2019MP\bin\Debug\Lab2.AVL-tree.pdb
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\Lab3.HashTable.dll
+C:\Users\Gibadulin Roman\Desktop\2019MP\2019MP\bin\Debug\Lab3.HashTable.pdb
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\2019MP.exe.config
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\2019MP.exe
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\2019MP.pdb
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\Lab1.dll
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\Lab2.AVL-tree.dll
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\Lab3.HashTable.dll
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\Lab1.pdb
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\Lab2.AVL-tree.pdb
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\Lab3.HashTable.pdb
+D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.csprojAssemblyReference.cache
+D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.csproj.CoreCompileInputs.cache
+D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.csproj.CopyComplete
+D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.exe
+D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.pdb

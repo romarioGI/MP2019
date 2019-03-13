@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2019MP", "2019MP\2019MP.csproj", "{017D4B7C-5263-4735-A582-30A20A8AEA08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.CompareStructures", "Lab1\Lab1.CompareStructures.csproj", "{84F0BBDC-A76B-48F4-8DAF-68E37995B44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.AVL-tree", "Lab2.AVL-tree\Lab2.AVL-tree.csproj", "{37F15F58-DDA2-4BC9-8BE8-5D39943992FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.AVL-treeUnitTest", "Lab2.AVL-treeUnitTest\Lab2.AVL-treeUnitTest.csproj", "{7FC94ED9-488F-40E2-8188-F1DE85A67C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.HashTable", "Lab3.HashTable\Lab3.HashTable.csproj", "{5B5EE821-449F-475F-A4D7-3478AF57AC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.HashTableUnitTest", "Lab3.HashTableUnitTest\Lab3.HashTableUnitTest.csproj", "{388E8DEE-FE70-43D5-99AB-5F0D3F57B4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{017D4B7C-5263-4735-A582-30A20A8AEA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017D4B7C-5263-4735-A582-30A20A8AEA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017D4B7C-5263-4735-A582-30A20A8AEA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017D4B7C-5263-4735-A582-30A20A8AEA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F0BBDC-A76B-48F4-8DAF-68E37995B44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F0BBDC-A76B-48F4-8DAF-68E37995B44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F0BBDC-A76B-48F4-8DAF-68E37995B44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F0BBDC-A76B-48F4-8DAF-68E37995B44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F15F58-DDA2-4BC9-8BE8-5D39943992FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F15F58-DDA2-4BC9-8BE8-5D39943992FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F15F58-DDA2-4BC9-8BE8-5D39943992FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F15F58-DDA2-4BC9-8BE8-5D39943992FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC94ED9-488F-40E2-8188-F1DE85A67C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC94ED9-488F-40E2-8188-F1DE85A67C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC94ED9-488F-40E2-8188-F1DE85A67C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC94ED9-488F-40E2-8188-F1DE85A67C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5EE821-449F-475F-A4D7-3478AF57AC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5EE821-449F-475F-A4D7-3478AF57AC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5EE821-449F-475F-A4D7-3478AF57AC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5EE821-449F-475F-A4D7-3478AF57AC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388E8DEE-FE70-43D5-99AB-5F0D3F57B4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388E8DEE-FE70-43D5-99AB-5F0D3F57B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388E8DEE-FE70-43D5-99AB-5F0D3F57B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388E8DEE-FE70-43D5-99AB-5F0D3F57B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B057112B-7FB1-4E92-A6B8-7812E92738CD}
+	EndGlobalSection
+EndGlobal
