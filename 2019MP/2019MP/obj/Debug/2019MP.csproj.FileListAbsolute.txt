@@ -54,3 +54,5 @@ D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.csproj.CoreCompileInputs.cache
 D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.csproj.CopyComplete
 D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.exe
 D:\gitHub\MP2019.2\2019MP\2019MP\obj\Debug\2019MP.pdb
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\Lab4.SkipList.dll
+D:\gitHub\MP2019.2\2019MP\2019MP\bin\Debug\Lab4.SkipList.pdb
