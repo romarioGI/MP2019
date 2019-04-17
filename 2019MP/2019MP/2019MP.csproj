@@ -65,6 +65,10 @@
       <Project>{1f670d3f-a9cb-4825-87ce-ea75e4c6ab65}</Project>
       <Name>Lab4.SkipList</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Lab5.Heap\Lab5.Heap.csproj">
+      <Project>{43658c44-9099-4501-81c8-7cb9a85a031e}</Project>
+      <Name>Lab5.Heap</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

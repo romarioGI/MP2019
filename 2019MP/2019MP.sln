@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.HashTableUnitTest", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4.SkipList", "Lab4.SkipList\Lab4.SkipList.csproj", "{1F670D3F-A9CB-4825-87CE-EA75E4C6AB65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5.Heap", "Lab5.Heap\Lab5.Heap.csproj", "{43658C44-9099-4501-81C8-7CB9A85A031E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1F670D3F-A9CB-4825-87CE-EA75E4C6AB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F670D3F-A9CB-4825-87CE-EA75E4C6AB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F670D3F-A9CB-4825-87CE-EA75E4C6AB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43658C44-9099-4501-81C8-7CB9A85A031E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43658C44-9099-4501-81C8-7CB9A85A031E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43658C44-9099-4501-81C8-7CB9A85A031E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43658C44-9099-4501-81C8-7CB9A85A031E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

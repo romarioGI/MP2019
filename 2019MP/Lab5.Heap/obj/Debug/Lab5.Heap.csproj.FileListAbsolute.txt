@@ -1,0 +1,6 @@
+D:\gitHub\MP2019.2\2019MP\Lab5.Heap\bin\Debug\Lab5.Heap.dll
+D:\gitHub\MP2019.2\2019MP\Lab5.Heap\bin\Debug\Lab5.Heap.pdb
+D:\gitHub\MP2019.2\2019MP\Lab5.Heap\obj\Debug\Lab5.Heap.csprojAssemblyReference.cache
+D:\gitHub\MP2019.2\2019MP\Lab5.Heap\obj\Debug\Lab5.Heap.csproj.CoreCompileInputs.cache
+D:\gitHub\MP2019.2\2019MP\Lab5.Heap\obj\Debug\Lab5.Heap.dll
+D:\gitHub\MP2019.2\2019MP\Lab5.Heap\obj\Debug\Lab5.Heap.pdb
