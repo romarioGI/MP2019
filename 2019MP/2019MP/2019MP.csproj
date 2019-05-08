@@ -69,6 +69,10 @@
       <Project>{43658c44-9099-4501-81c8-7cb9a85a031e}</Project>
       <Name>Lab5.Heap</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Lab6.Substrings\Lab6.Substrings.csproj">
+      <Project>{9f15c94b-4a06-4a1f-8daf-a66d99c70a16}</Project>
+      <Name>Lab6.Substrings</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

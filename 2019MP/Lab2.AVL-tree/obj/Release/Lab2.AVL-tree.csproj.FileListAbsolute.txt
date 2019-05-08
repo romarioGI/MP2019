@@ -1,6 +1,0 @@
-D:\gitHub\MP2019.2\2019MP\Lab2.AVL-tree\bin\Release\Lab2.AVL-tree.dll
-D:\gitHub\MP2019.2\2019MP\Lab2.AVL-tree\bin\Release\Lab2.AVL-tree.pdb
-D:\gitHub\MP2019.2\2019MP\Lab2.AVL-tree\obj\Release\Lab2.AVL-tree.csprojAssemblyReference.cache
-D:\gitHub\MP2019.2\2019MP\Lab2.AVL-tree\obj\Release\Lab2.AVL-tree.csproj.CoreCompileInputs.cache
-D:\gitHub\MP2019.2\2019MP\Lab2.AVL-tree\obj\Release\Lab2.AVL-tree.dll
-D:\gitHub\MP2019.2\2019MP\Lab2.AVL-tree\obj\Release\Lab2.AVL-tree.pdb

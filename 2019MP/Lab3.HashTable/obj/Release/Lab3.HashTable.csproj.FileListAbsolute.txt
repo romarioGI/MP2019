@@ -1,6 +1,0 @@
-D:\gitHub\MP2019.2\2019MP\Lab3.HashTable\bin\Release\Lab3.HashTable.dll
-D:\gitHub\MP2019.2\2019MP\Lab3.HashTable\bin\Release\Lab3.HashTable.pdb
-D:\gitHub\MP2019.2\2019MP\Lab3.HashTable\obj\Release\Lab3.HashTable.csprojAssemblyReference.cache
-D:\gitHub\MP2019.2\2019MP\Lab3.HashTable\obj\Release\Lab3.HashTable.csproj.CoreCompileInputs.cache
-D:\gitHub\MP2019.2\2019MP\Lab3.HashTable\obj\Release\Lab3.HashTable.dll
-D:\gitHub\MP2019.2\2019MP\Lab3.HashTable\obj\Release\Lab3.HashTable.pdb

@@ -1,6 +1,0 @@
-D:\gitHub\MP2019.2\2019MP\Lab4.SkipList\bin\Release\Lab4.SkipList.dll
-D:\gitHub\MP2019.2\2019MP\Lab4.SkipList\bin\Release\Lab4.SkipList.pdb
-D:\gitHub\MP2019.2\2019MP\Lab4.SkipList\obj\Release\Lab4.SkipList.csprojAssemblyReference.cache
-D:\gitHub\MP2019.2\2019MP\Lab4.SkipList\obj\Release\Lab4.SkipList.csproj.CoreCompileInputs.cache
-D:\gitHub\MP2019.2\2019MP\Lab4.SkipList\obj\Release\Lab4.SkipList.dll
-D:\gitHub\MP2019.2\2019MP\Lab4.SkipList\obj\Release\Lab4.SkipList.pdb

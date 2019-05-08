@@ -1,6 +1,0 @@
-D:\gitHub\MP2019.2\2019MP\Lab1\bin\Release\Lab1.dll
-D:\gitHub\MP2019.2\2019MP\Lab1\bin\Release\Lab1.pdb
-D:\gitHub\MP2019.2\2019MP\Lab1\obj\Release\Lab1.CompareStructures.csprojAssemblyReference.cache
-D:\gitHub\MP2019.2\2019MP\Lab1\obj\Release\Lab1.CompareStructures.csproj.CoreCompileInputs.cache
-D:\gitHub\MP2019.2\2019MP\Lab1\obj\Release\Lab1.dll
-D:\gitHub\MP2019.2\2019MP\Lab1\obj\Release\Lab1.pdb
