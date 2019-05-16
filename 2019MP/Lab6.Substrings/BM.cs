@@ -64,15 +64,26 @@ namespace Lab6.Substrings
             var badCharShifts = GetBadCharShifts(pattern);
             var goodSuffixShifts = GetGoodSuffixShifts(pattern);
             var i = 0;
+            var rBound = 0;
+            var lBound = -1;
             while (i < text.Length - pattern.Length + 1)
             {
                 var j = pattern.Length - 1;
-                while (j >= 0 && text[i + j] == pattern[j])
+                while (j >= rBound && text[i + j] == pattern[j])
                     j--;
+                if (j < rBound)
+                {
+                    j = lBound;
+                    while (j >= 0 && text[i + j] == pattern[j])
+                        j--;
+                }
+
                 if (j < 0)
                 {
                     result.Add(i);
                     i += goodSuffixShifts[0];
+                    lBound = -1;
+                    rBound = pattern.Length - goodSuffixShifts[0];
                     continue;
                 }
 
@@ -84,7 +95,18 @@ namespace Lab6.Substrings
 
                 var goodSuffixShift = goodSuffixShifts[j + 1];
 
-                i += Math.Max(badCharShift, goodSuffixShift);
+                if (goodSuffixShift >= badCharShift)
+                {
+                    i += goodSuffixShift;
+                    rBound = pattern.Length - goodSuffixShift;
+                    lBound = j - goodSuffixShift;
+                }
+                else
+                {
+                    i += badCharShift;
+                    rBound = 0;
+                    lBound = -1;
+                }
             }
 
             return result;
