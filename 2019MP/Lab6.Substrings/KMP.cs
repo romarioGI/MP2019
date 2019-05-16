@@ -23,6 +23,10 @@ namespace Lab6.Substrings
         public List<int> FindAll(string text, string pattern)
         {
             var result = new List<int>();
+
+            if (pattern.Length == 0)
+                return result;
+
             var patternPrefFunc = PrefixFunction(pattern);
             var curPrefFuncValue = 0;
             for (var i = 0; i < text.Length; i++)

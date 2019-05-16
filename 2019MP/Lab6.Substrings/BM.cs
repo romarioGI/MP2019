@@ -61,6 +61,10 @@ namespace Lab6.Substrings
         public List<int> FindAll(string text, string pattern)
         {
             var result = new List<int>();
+
+            if (pattern.Length == 0)
+                return result;
+
             var badCharShifts = GetBadCharShifts(pattern);
             var goodSuffixShifts = GetGoodSuffixShifts(pattern);
             var i = 0;
